@@ -1,4 +1,4 @@
-# Weather Data Classification
+# Rain Prediction
 
 This project involves classifying weather data to predict whether it will rain today using a Logistic Regression model. The dataset used in this project contains daily weather observations and includes features such as wind direction, wind gust direction, and rainfall information.
 
