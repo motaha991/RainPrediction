@@ -57,6 +57,6 @@ The model's performance is evaluated using:
 - **F1 Score**
 - **Log Loss**
 
-### Code
+## Code
 
 Code can be found in .ipynb file in repo
